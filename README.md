@@ -5,4 +5,4 @@
 Plain living and high thinking.
 
 - I'd like to contribute code to the community
-- sow nothing, reap nothing
+- Learn something new
